@@ -280,7 +280,7 @@
 														"type": "Expression"
 													},
 													"file": {
-														"value": "empty.json",
+														"value": "cdc.json",
 														"type": "Expression"
 													}
 												}
